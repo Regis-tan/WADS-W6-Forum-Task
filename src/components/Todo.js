@@ -3,7 +3,7 @@ import "../styles/todo.css";
 
 function Todo({ onClose, open, title, description }) {
   return (
-    <Modal modalLable="Todo" onClose={onClose} open={open}>
+    <Modal modalLable="Task To Do" onClose={onClose} open={open}>
       <div className="todo">
         <h2>{title}</h2>
         <p>{description}</p>
