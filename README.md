@@ -20,4 +20,4 @@
 ### 2. Challenges Encountered:
 - Remembering how to use Node Package Manager
 - Forgetting to run "npm install"
-- Trying to debug spelling mistakes causing major errors.
+- Trying to debug spelling mistakes causing major errors
