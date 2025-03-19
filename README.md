@@ -1,6 +1,6 @@
 # Repository Description
 ### This repository contains the answers to the WADS **(Web Application Development and Security)** Forum tasks for Week 6. It is a To-Do list Web Application with **Firebase/Firestore** Integration
-### Link for Docker: https://hub.docker.com/repository/docker/registan/todo-app
+### Link for Docker: https://hub.docker.com/r/registan/todo-app
 
 # Usage Instructions
 ### Here are the instructions to use/deploy this Web Application:
